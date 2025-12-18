@@ -41,6 +41,11 @@
             <mxPoint x="697" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.5882352941176" y="364.2941176470588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-26" value="while循环判断value&amp;lt;a+n" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="438" y="167" width="196" height="97" as="geometry" />
         </mxCell>
@@ -87,6 +92,9 @@
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-46" value="程序结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-104" y="514" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="476" y="367" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
