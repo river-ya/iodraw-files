@@ -33,6 +33,9 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-23" value="定义有效末位指针start和遍历指针value" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="378" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-26" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="489" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
