@@ -47,8 +47,8 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-31" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="318" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-32" value="while循环判断value&amp;lt;a+n" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="378" y="472" width="196" height="97" as="geometry" />
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-32" value="*start != *value&lt;div&gt;当前遍历元素和有效末尾元素不同&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="378" y="472" width="224" height="117" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
