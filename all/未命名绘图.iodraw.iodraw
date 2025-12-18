@@ -41,11 +41,6 @@
             <mxPoint x="697" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="535.5882352941176" y="364.2941176470588" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-26" value="while循环判断value&amp;lt;a+n" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="438" y="167" width="196" height="97" as="geometry" />
         </mxCell>
@@ -78,8 +73,10 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-36" value="将新元素存入有效位置" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="746" y="427" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-39" target="Kx2agdVJKdKbuBsr4PQz-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="536.7647776884191" y="266.41178624770225" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-39" value="遍历指针后移" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="746" y="536" width="120" height="60" as="geometry" />
