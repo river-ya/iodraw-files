@@ -31,7 +31,10 @@
           <mxGeometry x="160" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-10" value="scanf读入num，并作强制类型转换" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="160" width="230" height="60" as="geometry" />
+          <mxGeometry x="120" y="160" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
