@@ -32,14 +32,8 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-10" value="读取行数n,列数m" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-22" y="55" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="78" y="356" as="sourcePoint" />
-            <mxPoint x="78" y="427" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-57" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-18.5" y="295" width="193" height="80" as="geometry" />
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-57" value="外层循环，从最后一列开始倒置遍历，i = m -1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-41" y="295" width="215.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
