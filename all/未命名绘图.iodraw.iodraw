@@ -12,65 +12,18 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="程序开始" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="18" y="-25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Kx2agdVJKdKbuBsr4PQz-5">
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="78" y="105" as="sourcePoint" />
+            <mxPoint x="78.07692307692287" y="165" as="targetPoint" />
             <Array as="points">
               <mxPoint x="78" y="135" />
               <mxPoint x="78" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-5" target="Kx2agdVJKdKbuBsr4PQz-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-5" value="通过atoi转换字符串为整数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="18" y="165" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-10" value="从命令行参数argv[1]读取整数n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-22" y="55" width="230" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-80" target="Kx2agdVJKdKbuBsr4PQz-82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-80" value="逐元素读取用户输入的整数存入动态数组中" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-59.75" y="281" width="275.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-82" target="Kx2agdVJKdKbuBsr4PQz-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-82" value="冒泡算法进行降序排序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-12" y="376" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-85" target="Kx2agdVJKdKbuBsr4PQz-89">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-85" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes&quot; lang=&quot;EN-US&quot;&gt;argc&lt;br&gt;== 3 &lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;且&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt; argv[2] &lt;/span&gt;为&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt; -d&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-36.5" y="505" width="229" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-88" target="Kx2agdVJKdKbuBsr4PQz-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-88" value="直接输出降序数组" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="619" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-89" target="Kx2agdVJKdKbuBsr4PQz-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-89" value="反向输出数组" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-194" y="619" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.64;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-85" target="Kx2agdVJKdKbuBsr4PQz-88">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-92" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="216" y="512" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-93" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-111" y="513" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-94" value="程序结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="18" y="755" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
