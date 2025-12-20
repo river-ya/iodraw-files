@@ -30,8 +30,8 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-10" value="从命令行参数argv[1]读取整数n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-22" y="55" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-80" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-25.5" y="282" width="207" height="60" as="geometry" />
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-80" value="逐元素读取用户输入的整数存入动态数组中" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-25.5" y="282" width="275.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
