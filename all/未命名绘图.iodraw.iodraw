@@ -33,7 +33,7 @@
           <mxGeometry x="-22" y="55" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-57" value="外层循环，从最后一列开始倒置遍历，i = m -1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="262" width="206" height="149" as="geometry" />
+          <mxGeometry x="-58" y="295" width="272" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
