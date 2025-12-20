@@ -43,8 +43,8 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-60" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="223" y="319" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-61" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="225.72000000000003" y="422.52" width="80" height="80" as="geometry" />
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-61" value="内层循环：遍历原始数组的行。j=0，判断j&amp;lt;=n" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="229" y="446" width="206.28" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
