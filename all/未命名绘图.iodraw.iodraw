@@ -362,8 +362,8 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-326" value="prev=temp,swapped=1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-358" y="1540" width="124" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-330" value="prev=current,current=current-&amp;gt;next" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="133" y="1348" width="120" height="60" as="geometry" />
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-330" value="prev=current,&lt;div&gt;current=current-&amp;gt;next&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="133" y="1348" width="158" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
