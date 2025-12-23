@@ -131,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-369" value="继续对比直到链表末尾" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="909" y="349" width="120" height="60" as="geometry" />
+          <mxGeometry x="889" y="324" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-371" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="829" y="261" width="60" height="30" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-372" value="is_palindrome置0，终止对比" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="433" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="448" y="319" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-374" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="535" y="261" width="60" height="30" as="geometry" />
