@@ -182,10 +182,13 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-259" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;6（修改成绩）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="246" y="-56" width="168" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-261" target="Kx2agdVJKdKbuBsr4PQz-263">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-261" value="输入目标学号/科目编号/新成绩" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395" y="189" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-263" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-263" value="遍历目标查找学生" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="404" y="315" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
