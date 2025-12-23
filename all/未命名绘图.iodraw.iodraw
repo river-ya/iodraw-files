@@ -277,9 +277,6 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-297" target="Kx2agdVJKdKbuBsr4PQz-299">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-297" target="Kx2agdVJKdKbuBsr4PQz-302">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-297" value="current平均分&amp;gt;下一个节点平均分？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-61" y="1366" width="118" height="80" as="geometry" />
         </mxCell>
@@ -299,7 +296,7 @@
           <mxGeometry x="128" y="1463" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-304" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="88" y="1372" width="60" height="30" as="geometry" />
+          <mxGeometry x="51" y="1372" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-305" target="Kx2agdVJKdKbuBsr4PQz-306">
           <mxGeometry relative="1" as="geometry" />
