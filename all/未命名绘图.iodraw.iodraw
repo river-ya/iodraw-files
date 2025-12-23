@@ -229,8 +229,11 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-278" value="调用sort_by_average函数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="214" y="512" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-281" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-281" value="sort_by_average" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-73" y="782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.887;entryY=1.054;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-254" target="Kx2agdVJKdKbuBsr4PQz-254">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
