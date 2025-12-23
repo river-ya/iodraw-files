@@ -330,6 +330,9 @@
             <mxPoint x="-488.1578947368421" y="1539.8946854440792" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-318" target="Kx2agdVJKdKbuBsr4PQz-323">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-318" value="交换在链表头部？（prev==NULL）" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-548" y="1390" width="120" height="80" as="geometry" />
         </mxCell>
@@ -341,6 +344,9 @@
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-323" value="prev-&amp;gt;next=temp(更新前驱指针)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-356" y="1451" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-325" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-402" y="1395" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
