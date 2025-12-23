@@ -112,8 +112,17 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-363" value="初始化标准is_palindrome=1(默认为回文)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="674" y="16" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-368" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-365" target="Kx2agdVJKdKbuBsr4PQz-367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-365" value="逐节点对比原链表和反转链表的字符" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="674" y="141" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-367" value="字符是否全部匹配？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="694" y="255" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-369" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="909" y="349" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
