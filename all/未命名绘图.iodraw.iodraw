@@ -105,6 +105,9 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-233" value="逐节点输出学号/姓名/4科成绩" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-193" y="416" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-236" target="Kx2agdVJKdKbuBsr4PQz-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-236" value="调用calculate_averages函数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="24" y="146" width="120" height="60" as="geometry" />
         </mxCell>
@@ -112,7 +115,10 @@
           <mxGeometry x="22" y="86" width="168" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-239" value="遍历链表" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="31" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="24" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-241" value="逐节点输出学号/姓名/4科成绩" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-183" y="426" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
