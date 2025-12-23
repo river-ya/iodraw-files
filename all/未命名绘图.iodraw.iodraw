@@ -199,10 +199,9 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-265" target="Kx2agdVJKdKbuBsr4PQz-208">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="469" />
-              <mxPoint x="530" y="257" />
-              <mxPoint x="627" y="257" />
-              <mxPoint x="627" y="46" />
+              <mxPoint x="627" y="469" />
+              <mxPoint x="627" y="-59" />
+              <mxPoint x="59" y="-59" />
             </Array>
           </mxGeometry>
         </mxCell>
