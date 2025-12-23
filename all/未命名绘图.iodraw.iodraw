@@ -301,10 +301,13 @@
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-304" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="84" y="1471" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kx2agdVJKdKbuBsr4PQz-305" target="Kx2agdVJKdKbuBsr4PQz-306">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kx2agdVJKdKbuBsr4PQz-305" value="遍历完未排序部分？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-49" y="1675" width="91" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx2agdVJKdKbuBsr4PQz-306" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Kx2agdVJKdKbuBsr4PQz-306" value="排序完成，返回" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-284" y="1772" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
