@@ -64,6 +64,12 @@
         <mxCell id="ui7nmHWjTt3No7bgt8-F-21" value="输出OK" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="422.5" y="-708" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ui7nmHWjTt3No7bgt8-F-23" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="411" y="-897" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ui7nmHWjTt3No7bgt8-F-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
