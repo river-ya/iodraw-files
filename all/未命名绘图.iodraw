@@ -28,7 +28,7 @@
         <mxCell id="ui7nmHWjTt3No7bgt8-F-7" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="29" y="-1065" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ui7nmHWjTt3No7bgt8-F-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ui7nmHWjTt3No7bgt8-F-8" value="动态分配内存（malloc）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="-877" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
