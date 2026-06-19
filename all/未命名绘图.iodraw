@@ -11,7 +11,10 @@
           <mxGeometry x="124" y="-1285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ui7nmHWjTt3No7bgt8-F-1" value="输入：线性表引用L" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="124" y="-1162" width="120" height="60" as="geometry" />
+          <mxGeometry x="119.5" y="-1162" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ui7nmHWjTt3No7bgt8-F-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="144" y="-1075" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
