@@ -4,8 +4,14 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ui7nmHWjTt3No7bgt8-F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ui7nmHWjTt3No7bgt8-F-0" target="ui7nmHWjTt3No7bgt8-F-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ui7nmHWjTt3No7bgt8-F-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="124" y="-1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ui7nmHWjTt3No7bgt8-F-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="124" y="-1162" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
